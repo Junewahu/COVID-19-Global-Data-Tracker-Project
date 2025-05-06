@@ -54,7 +54,7 @@ COVID-19-Global-Data-Tracker/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/COVID-19-Global-Data-Tracker.git
+git clone https://github.com/Junewahu/COVID-19-Global-Data-Tracker-Project.git
 cd COVID-19-Global-Data-Tracker
 ```
 
